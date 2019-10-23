@@ -2,7 +2,7 @@
 
 ## In short
 
-- Lists the html elements in the `console.log` similar to CSSs
+- Lists the html elements in the `console.log` similar to CSS
 - Very simple to use
 - Very small code
 - Syntax highlighting
